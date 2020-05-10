@@ -1,4 +1,4 @@
-# Stu01
+# Stuti 01
 
 # Version
 RPG v1.0.0
