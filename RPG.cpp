@@ -7,7 +7,8 @@ using namespace std;
 static const char pool[]=
 "qwertyuiopasdfghjklzxcvbnm"
 "QWERTYUIOPASDFGHJKLZXCVBNM"
-"5432167890";
+"5432167890"
+"@!.#";
 
 int poolsize =sizeof(pool)-1;
 
